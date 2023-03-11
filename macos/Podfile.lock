@@ -1,0 +1,22 @@
+PODS:
+  - FlutterMacOS (1.0.0)
+  - tactile_feedback (0.0.1):
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - FlutterMacOS (from `Flutter/ephemeral`)
+  - tactile_feedback (from `Flutter/ephemeral/.symlinks/plugins/tactile_feedback/macos`)
+
+EXTERNAL SOURCES:
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+  tactile_feedback:
+    :path: Flutter/ephemeral/.symlinks/plugins/tactile_feedback/macos
+
+SPEC CHECKSUMS:
+  FlutterMacOS: 8f6f14fa908a6fb3fba0cd85dbd81ec4b251fb24
+  tactile_feedback: 1f7f76ae961b62210977f8dba73c625375326dd1
+
+PODFILE CHECKSUM: 01760ba2d69ef411bffb8c1dd058d44fc5605e4e
+
+COCOAPODS: 1.11.3
